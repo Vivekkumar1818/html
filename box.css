@@ -1,0 +1,20 @@
+.container{
+    background-color: aqua;
+    color: white;
+    font-style: italic;
+    padding-top: 40px;
+    padding-top: 0cqmin;
+    border: 15px dotted red ;
+    border-radius: 10px;
+    
+    
+}
+.container1 {
+    background-color: brown;
+    color: white;
+    padding: 20px;
+    margin-top: 40px;
+    border: 13px solid black;
+    border-radius: 70px;
+
+}
